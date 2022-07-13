@@ -32,7 +32,7 @@ function buildMetadata(sample) {
     var values = result.sample_values;
   
 
-  //--------------- Build a BUBBLE Chart -----------------------//
+  //--------------- Build a BUBBLE Chart ----------------------//
   
     var LayoutBubble = {
       margin: { t: 0 },
