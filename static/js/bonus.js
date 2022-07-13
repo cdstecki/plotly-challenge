@@ -113,7 +113,7 @@ function gaugeChart(data) {
 
 
 
-//============= Bubble & Bar Chart =======================//
+//============= Bubble & Bar Chart ======================//
 
 function buildCharts(sample) {
 
